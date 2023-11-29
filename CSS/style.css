@@ -1,0 +1,16 @@
+.header{
+    background-color: black; 
+    display: flex;
+    justify-content: space-between;  
+}
+
+.logoSpotify{
+    width: 100px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.menu-icon{
+    width: 30px;
+    margin-right: 20px;
+}
