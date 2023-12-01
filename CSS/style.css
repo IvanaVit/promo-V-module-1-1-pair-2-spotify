@@ -1,0 +1,39 @@
+:root {
+    font-size: 62,5%;
+    
+}
+
+.container {
+    margin: auto;
+}
+
+.header {
+    background-color: black; 
+    display: flex;
+    justify-content: space-between; 
+}
+
+.logo{
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.menu-icon{
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box1 {
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+.box2 {
+    margin: 0 auto;
+    background-color: cyan;
+}
